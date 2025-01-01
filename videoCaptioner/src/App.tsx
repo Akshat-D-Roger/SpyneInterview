@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import VideoPlayer from './components/VideoPlayer';
 import VideoUrlForm from './components/VideoUrlForm';
 import CaptionForm from './components/CaptionForm';

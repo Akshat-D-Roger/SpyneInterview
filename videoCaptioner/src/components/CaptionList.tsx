@@ -1,4 +1,3 @@
-import React from 'react';
 
 interface CaptionListProps {
   captions: { id: number; start: number; end: number; text: string }[];
